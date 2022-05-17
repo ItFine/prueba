@@ -1,1 +1,5 @@
-a
+name: Test
+author: Fine
+api: 4.0.0
+main: Fine\Loader
+version: 1.0.0
